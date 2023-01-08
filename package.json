@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Prince Sunsara <princesunasara977@gmail.com>",
+  "author": "Nikhil Modi <nikhilmodi364@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
